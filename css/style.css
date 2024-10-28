@@ -1,0 +1,19 @@
+:root {
+    --main-dark-color: 
+}
+
+/* color:var(--main-dark-color) */
+
+body {
+    background-color: blue;
+    font-family: Sen, sans-serif;
+
+}
+
+button {
+    cursor: pointer;
+}
+
+ul, ol {
+    list-style: none;
+}
